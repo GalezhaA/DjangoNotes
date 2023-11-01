@@ -1,0 +1,2 @@
+# DjangoNotes
+Simple notes site 
